@@ -30,6 +30,6 @@ Here are some previews of the Quiz Website:
 To run this project locally:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AJAY2210121/HTML__CSS__JavaScript_Projects/tree/main/Quiz%20Website
+   git clone https://github.com/AJAY2210121/HTML__CSS__JavaScript_Projects/tree/1133f1e87746724f274786f3f4badc0851527afb/Quiz%20Website
    
 
