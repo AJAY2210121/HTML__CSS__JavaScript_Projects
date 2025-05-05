@@ -10,7 +10,7 @@
  .app{
     background-color: #fff;
     width: 90%;
-    max-width: 600px;
+    max-width: 800px;
     margin: 100px auto 0;
     border-radius: 10px;
     padding: 30px;
@@ -42,10 +42,14 @@
     text-align: left;
     border-radius: 4px;
     cursor: pointer;
+    transition: all 0.3s;
  }
- .btn:hover{
+ .btn:hover:not([disabled]){
     background:#0440a2;
     color: #fff;
+ }
+ .btn:disabled{
+   cursor: no-drop;   
  }
  #next-btn{
     background: #001e4d;
@@ -56,6 +60,13 @@
     padding: 10px;
     margin:20px auto 0;
     cursor: pointer;
+    border-radius: 4px;
     display: none;
 
+ }
+ .correct{
+   background: #9aeabc ;
+ }
+ .incorrect{
+   background: #ff9393;
  }
