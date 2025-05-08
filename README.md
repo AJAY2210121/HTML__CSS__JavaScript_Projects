@@ -17,4 +17,4 @@ This project is a **Quiz Website** built using **HTML, CSS, JavaScript, and APIs
 - **API** - Fetching quiz questions dynamically.
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository:https://github.com/AJAY2210121/Quiz_Website/
